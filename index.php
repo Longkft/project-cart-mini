@@ -32,7 +32,7 @@
                 </div> -->
                 <div class="hero__search__phone__text">
                     <h5>+84 87.966.3170</h5>
-                    <span>support 24/7 time</span>
+                    <span>support 24/7 time (only week)</span>
                 </div>
             </div>
         </div>
