@@ -1,0 +1,30 @@
+
+
+.w1 {
+    width: 100%;
+}
+
+.fl {
+    display: flex;
+}
+
+.font85 {
+    font-size: .85rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.cl3a {
+    color: #3a3b45 !important;
+}
+
+.cl8 {
+    color: rgba(255,255,255,.8);
+}
+
+.cursor {
+    cursor: pointer;
+}
